@@ -1,0 +1,13 @@
+# 1. Start Milvus
+docker-compose up -d
+
+# 2. Cài môi trường
+python3 -m venv venv && source venv/bin/activate
+pip install -r requirements.txt
+
+# 3. Chạy pipeline
+cd src
+python vector_pipeline.py
+
+# 4. Truy vấn vector
+python search_demo.py

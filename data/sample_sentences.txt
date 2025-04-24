@@ -1,0 +1,5 @@
+Tôi yêu học máy và dữ liệu lớn
+Vector database giúp tìm kiếm nhanh hơn
+Milvus là một hệ thống lưu trữ vector
+Chúng ta có thể áp dụng nó cho AI
+Xử lý ngôn ngữ tự nhiên là một lĩnh vực thú vị
