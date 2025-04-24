@@ -1,3 +1,8 @@
+# Dùng Spark với phiên bản đã có sẵn trên hệ thống
+pyspark==3.5.5
+
+# Milvus client
 pymilvus==2.3.3
-pyspark
+
+# Sentence transformers cho vector hóa văn bản
 sentence-transformers
